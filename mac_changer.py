@@ -1,6 +1,6 @@
 import subprocess
 import time
-import random
+
 
 os.system("figle MAC CHANGER")
 
